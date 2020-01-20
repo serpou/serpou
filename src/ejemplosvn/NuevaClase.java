@@ -10,5 +10,5 @@ package ejemplosvn;
  * @author usuario
  */
 public class NuevaClase {
-    
+    erewrwer
 }
