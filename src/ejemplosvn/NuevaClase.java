@@ -10,5 +10,10 @@ package ejemplosvn;
  * @author usuario
  */
 public class NuevaClase {
-    erewrwer
+    EjemploSVN valor;
+    
+    NuevaClase() {
+        valor=new EjemploSVN();
+        valor.cambiaNumero(8);
+    }
 }
